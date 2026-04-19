@@ -1,1 +1,1 @@
-Deployed. Please check it out :)
+Deployed. 
